@@ -1,0 +1,44 @@
+body{
+  background-color: #1FAB89;
+  background-position: top;
+}
+h2{
+  color: white;
+  font: italic 1.2em "Fira Sans", serif;
+  font-size: xxx-large;
+}
+h1{
+  color: #ffffff;
+  font:bold;
+  font-size: xxx-large;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+p{
+  color: white;
+  font-size: bold;
+  font-size: xx-large;
+  font-weight: 400;
+  margin-bottom: 0.83333333em
+}
+form{
+  font-size: xx-large;
+  color: black;
+}
+button{
+  background-color: white;
+  border-width: 2.5px;
+  color: white;
+  font: bold;
+}
+hr{
+
+    border-top-style : solid;
+    border-color: white;
+
+
+}
